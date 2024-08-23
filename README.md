@@ -1,6 +1,6 @@
 # ONE一个App
 
-[YG.App](https://yg.app) official app
+ONE一个丨致敬韩寒[YG.App](https://yg.app) official app
 
 ## Downloads
 
